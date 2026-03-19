@@ -13,4 +13,4 @@ Font Awesome
 Fira Sans (Google Fonts)
 
 Live demo
-herrbodin.github.io/Work_CodeGames2026
+herrbodin.github.io/Work_CodeGames2026/
