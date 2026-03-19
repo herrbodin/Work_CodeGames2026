@@ -12,5 +12,5 @@ Chart.js
 Font Awesome
 Fira Sans (Google Fonts)
 
-Live demo
-herrbodin.github.io/Work_CodeGames2026/
+## Live demo
+[herrbodin.github.io/Work_CodeGames2026](https://herrbodin.github.io/Work_CodeGames2026/)
